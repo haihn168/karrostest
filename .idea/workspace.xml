@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbdcd4df-3e89-4321-bc4d-0e9f429a45b9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Thi5OKAiSA2ZwE3Dek3AragxdN" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\Karros\src\test\resource\JsonSchema" />
+      <recent name="D:\Projects\Karros\src\test" />
+      <recent name="D:\Projects\Karros\src\test\java\APITest\resource" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TypiCodeTest">
+    <configuration name="LoginTest.LoginWithValidCredentials" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="karrostest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UITest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SmokeTest" />
+      <option name="MAIN_CLASS_NAME" value="SmokeTest.LoginTest" />
+      <option name="METHOD_NAME" value="LoginWithValidCredentials" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequestPageTest.HomePageLoadCorrectly" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="karrostest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UITest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SmokeTest" />
+      <option name="MAIN_CLASS_NAME" value="UITest.RequestPageTest" />
+      <option name="METHOD_NAME" value="HomePageLoadCorrectly" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypiCodeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="karrostest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="APITest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="APITest" />
+      <option name="MAIN_CLASS_NAME" value="APITest.TypiCodeTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypiCodeTest.TypiCodeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="karrostest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="APITest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="APITest" />
+      <option name="MAIN_CLASS_NAME" value="APITest.TypiCodeTest" />
+      <option name="METHOD_NAME" value="TypiCodeTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TypiCodeTest" />
+        <item itemvalue="TestNG.TypiCodeTest.TypiCodeTest" />
+        <item itemvalue="TestNG.RequestPageTest.HomePageLoadCorrectly" />
+        <item itemvalue="TestNG.LoginTest.LoginWithValidCredentials" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbdcd4df-3e89-4321-bc4d-0e9f429a45b9" name="Default Changelist" comment="" />
+      <created>1573918544250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573918544250</updated>
+      <workItem from="1573918547678" duration="13000" />
+      <workItem from="1573918577104" duration="10812000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
