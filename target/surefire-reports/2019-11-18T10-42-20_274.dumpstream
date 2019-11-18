@@ -1,4 +1,4 @@
-# Created at 2019-11-18T09:49:28.057
+# Created at 2019-11-18T10:42:20.753
 Boot Manifest-JAR contains absolute paths in classpath 'D:\Projects\Karros\target\test-classes'
 Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 

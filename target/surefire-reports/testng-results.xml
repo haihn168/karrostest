@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="18457" started-at="2019-11-18T02:49:29Z" finished-at="2019-11-18T02:49:47Z">
+  <suite name="Suite1" duration-ms="15090" started-at="2019-11-18T03:42:21Z" finished-at="2019-11-18T03:42:36Z">
     <groups>
     </groups>
-    <test name="UITest" duration-ms="13745" started-at="2019-11-18T02:49:29Z" finished-at="2019-11-18T02:49:43Z">
+    <test name="UITest" duration-ms="12470" started-at="2019-11-18T03:42:21Z" finished-at="2019-11-18T03:42:34Z">
       <class name="UITest.RequestPageTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:UITest.RequestPageTest@2344fc66]" name="beforeTest" is-config="true" duration-ms="18" started-at="2019-11-18T02:49:29Z" finished-at="2019-11-18T02:49:29Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:UITest.RequestPageTest@2344fc66]" name="beforeTest" is-config="true" duration-ms="11" started-at="2019-11-18T03:42:21Z" finished-at="2019-11-18T03:42:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:UITest.RequestPageTest@2344fc66]" name="beforeMethod" is-config="true" duration-ms="6325" started-at="2019-11-18T02:49:29Z" finished-at="2019-11-18T02:49:35Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:UITest.RequestPageTest@2344fc66]" name="beforeMethod" is-config="true" duration-ms="5847" started-at="2019-11-18T03:42:21Z" finished-at="2019-11-18T03:42:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="HomePageLoadCorrectly()[pri:0, instance:UITest.RequestPageTest@2344fc66]" name="HomePageLoadCorrectly" duration-ms="6678" started-at="2019-11-18T02:49:35Z" finished-at="2019-11-18T02:49:42Z">
+        <test-method status="PASS" signature="HomePageLoadCorrectly()[pri:0, instance:UITest.RequestPageTest@2344fc66]" name="HomePageLoadCorrectly" duration-ms="5938" started-at="2019-11-18T03:42:27Z" finished-at="2019-11-18T03:42:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- HomePageLoadCorrectly -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:UITest.RequestPageTest@2344fc66]" name="afterMethod" is-config="true" duration-ms="700" started-at="2019-11-18T02:49:42Z" finished-at="2019-11-18T02:49:43Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:UITest.RequestPageTest@2344fc66]" name="afterMethod" is-config="true" duration-ms="660" started-at="2019-11-18T03:42:33Z" finished-at="2019-11-18T03:42:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- UITest.RequestPageTest -->
     </test> <!-- UITest -->
-    <test name="APITest" duration-ms="4700" started-at="2019-11-18T02:49:43Z" finished-at="2019-11-18T02:49:47Z">
+    <test name="APITest" duration-ms="2610" started-at="2019-11-18T03:42:34Z" finished-at="2019-11-18T03:42:36Z">
       <class name="APITest.TypiCodeTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:APITest.TypiCodeTest@4520ebad]" name="setup" is-config="true" duration-ms="787" started-at="2019-11-18T02:49:43Z" finished-at="2019-11-18T02:49:44Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:APITest.TypiCodeTest@4520ebad]" name="setup" is-config="true" duration-ms="450" started-at="2019-11-18T03:42:34Z" finished-at="2019-11-18T03:42:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TypiCodeTest()[pri:0, instance:APITest.TypiCodeTest@4520ebad]" name="TypiCodeTest" duration-ms="3911" started-at="2019-11-18T02:49:44Z" finished-at="2019-11-18T02:49:47Z">
+        <test-method status="PASS" signature="TypiCodeTest()[pri:0, instance:APITest.TypiCodeTest@4520ebad]" name="TypiCodeTest" duration-ms="2159" started-at="2019-11-18T03:42:34Z" finished-at="2019-11-18T03:42:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TypiCodeTest -->

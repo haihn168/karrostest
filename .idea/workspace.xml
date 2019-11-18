@@ -3,7 +3,23 @@
   <component name="ChangeListManager">
     <list default="true" id="bbdcd4df-3e89-4321-bc4d-0e9f429a45b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/APITest/TypiCodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/APITest/TypiCodeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T22-54-58_465.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T22-56-41_871.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T09-44-23_765.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T09-49-27_600.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite1/APITest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite1/APITest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite1/APITest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite1/APITest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite1/UITest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite1/UITest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite1/UITest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite1/UITest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-APITest.TypiCodeTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-APITest.TypiCodeTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-UITest.RequestPageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-UITest.RequestPageTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +61,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\Karros\src\test\resource" />
       <recent name="D:\Projects\Karros\src\test\resource\JsonSchema" />
       <recent name="D:\Projects\Karros\src\test" />
       <recent name="D:\Projects\Karros\src\test\java\APITest\resource" />
@@ -155,7 +172,8 @@
       <updated>1573918544250</updated>
       <workItem from="1573918547678" duration="13000" />
       <workItem from="1573918577104" duration="11136000" />
-      <workItem from="1574043128467" duration="881000" />
+      <workItem from="1574043128467" duration="1680000" />
+      <workItem from="1574046245305" duration="1876000" />
     </task>
     <servers />
   </component>

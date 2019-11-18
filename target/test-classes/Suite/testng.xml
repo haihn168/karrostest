@@ -1,0 +1,13 @@
+<suite name="Suite1" verbose="1" >
+    <test name="UITest" >
+        <classes>
+            <class name="UITest.RequestPageTest" />
+        </classes>
+    </test>
+
+    <test name="APITest">
+        <classes>
+            <class name="APITest.TypiCodeTest"/>
+        </classes>
+    </test>
+</suite>
