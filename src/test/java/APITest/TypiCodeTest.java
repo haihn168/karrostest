@@ -27,7 +27,7 @@ public class TypiCodeTest {
             .assertThat()
             .statusCode(200)
             .contentType(ContentType.JSON)
-            .body(matchesJsonSchemaInClasspath("JsonSchema/jsonSchema.json"))
+            .body(matchesJsonSchemaInClasspath("jsonSchema.json"))
             .body("id",equalTo(1),
                     "title",equalTo("Post " + 1));
     }

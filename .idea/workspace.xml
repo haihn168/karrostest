@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbdcd4df-3e89-4321-bc4d-0e9f429a45b9" name="Default Changelist" comment="" />
+    <list default="true" id="bbdcd4df-3e89-4321-bc4d-0e9f429a45b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/APITest/TypiCodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/APITest/TypiCodeTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Thi5OKAiSA2ZwE3Dek3AragxdN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -55,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TypiCodeTest">
+  <component name="RunManager" selected="TestNG.TypiCodeTest.TypiCodeTest">
     <configuration name="LoginTest.LoginWithValidCredentials" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="karrostest" />
       <extension name="coverage">
@@ -129,8 +136,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TypiCodeTest" />
         <item itemvalue="TestNG.TypiCodeTest.TypiCodeTest" />
+        <item itemvalue="TestNG.TypiCodeTest" />
         <item itemvalue="TestNG.RequestPageTest.HomePageLoadCorrectly" />
         <item itemvalue="TestNG.LoginTest.LoginWithValidCredentials" />
       </list>
@@ -147,11 +154,25 @@
       <option name="presentableId" value="Default" />
       <updated>1573918544250</updated>
       <workItem from="1573918547678" duration="13000" />
-      <workItem from="1573918577104" duration="10812000" />
+      <workItem from="1573918577104" duration="11136000" />
+      <workItem from="1574043128467" duration="881000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

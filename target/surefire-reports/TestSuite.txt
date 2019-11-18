@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 16.155 s <<< FAILURE! - in TestSuite
-TypiCodeTest(APITest.TypiCodeTest)  Time elapsed: 1.341 s  <<< FAILURE!
-java.lang.IllegalArgumentException: Schema to use cannot be null
-	at APITest.TypiCodeTest.TypiCodeTest(TypiCodeTest.java:30)
-
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.357 s - in TestSuite
